@@ -19,8 +19,10 @@ The algorithm steps are the following:
 5- Detecting players
 6- Visualize moving pattern
 
+Results:
 
-Output examples: 
+
+
 ![alt text](https://raw.githubusercontent.com/mayar-ahmed/Tennis-Tracker/master/s1.png)
 ![alt text](https://raw.githubusercontent.com/mayar-ahmed/Tennis-Tracker/master/s2.png)
 ![alt text](https://raw.githubusercontent.com/mayar-ahmed/Tennis-Tracker/master/s3.png)
