@@ -21,8 +21,8 @@ The algorithm steps are the following:
 
 
 Output examples: 
-![Alt text](/media/mayar/not_fun/year 3/semester 1/projects/Image Processing team 13/tracker/s1.png?raw=true)
-![Alt text](/media/mayar/not_fun/year 3/semester 1/projects/Image Processing team 13/tracker/s2.png?raw=true)
-![Alt text](/media/mayar/not_fun/year 3/semester 1/projects/Image Processing team 13/tracker/s3.png?raw=true)
+![alt text](https://raw.githubusercontent.com/mayar-ahmed/Tennis-Tracker/master/s1.png)
+![alt text](https://raw.githubusercontent.com/mayar-ahmed/Tennis-Tracker/master/s2.png)
+![alt text](https://raw.githubusercontent.com/mayar-ahmed/Tennis-Tracker/master/s3.png)
 
 the complete details of the project can be found on Report.docx
