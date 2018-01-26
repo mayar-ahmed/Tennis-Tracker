@@ -1,0 +1,8 @@
+1- There are two files: tennis_tracker, tracker_with_percent
+2- The first one outputs motion tracking results in a video file and a plot of the player movements
+3- The second one generates the same output in addition to a plot with the percentage of movement in areas of the court
+but the detection of the tennis court is not accurate
+4- They both take the input from the input folder and generate the output in the output folder
+5-There are multiple videos with their results in the input and output folders .to run any of them just specify the video name you want to run in the first line of code
+example : filename= 'v1.mp4' , it will get it from the input folder and produce the corresponding output
+6-player_extraction.m shows the oprations applied on the video before detection.
